@@ -1,0 +1,92 @@
+Changelog 
+Version 1.0
+several blocks now have varients
+all planks
+all flowers
+all sides of basalt
+all crops
+birch log
+coarse dirt
+cobble
+cracked bricks
+warped/crimson fungus
+warped/crimson roots
+dead bush
+diorite
+grass and tall grass
+grass block
+gravel
+lily pads
+mossy cobble
+mossy stone bricks
+nether sprouts
+podzol
+stone bricks
+vines
+bookshelves
+
+several blocks now have glowmaps
+ores
+warped/crimson stem
+enchanting table
+red mushroom and red mushroom blocks
+respawn anchor
+enderchest
+
+all leaves are a different type of fluffy
+
+several blocks now overlay other blocks
+crimson and warped nylium 
+netherrack, nether quartz ore and nether gold 
+stone
+coarse dirt
+dirt
+gravel
+red sand
+sand
+
+general texture changes
+glass and bookshelves have connected textures
+
+all logs are round looking
+birch is now cherry blossum
+clean destroy animation
+all grass type blocks are lower on sides
+hay bales dont have string
+lilly pads can have flowers
+podzol now looks like sticks and leafs on ground 
+spruce doors now have same texture as trapdoors
+stone cutter now has no wood on it
+beds have cool designs on them (all hail glowsquid)
+shulker boxes look cooler
+sun and moon are now 3d
+most containers have their own ui (stolen cuz they look nice)
+hearts are a lot more clear
+ping is now coloured
+title screen is now pack.png world
+other icons have chaned
+netherite overhaul
+lime, magenta, pink, purple and gray dye now have their own unique textures
+og quartz item texture
+animaetd held campfire
+old bundles
+colour maps have been edited to be more vibrant
+light map has been edited to include orange and purple for moonrise and moonset
+
+helpfull changes
+bees nest and hive show how full they are 
+dispensers, droppers, hoppers and observers show which way theyre facing
+farmland gets more visually dry the further away from a water source
+lower fire/soulfire
+lower shields
+kelp aged 25 has flowers to show that it cant grow
+melon and pumpkin stems are seperate colours
+the middle of scaffolding is now seethrough
+amount of rain and snow have been reduced
+smoother font
+infested blocks have a yellow and black border around the held item
+removed vignette
+clearer underwater
+removed pumpkin blur
+less obtrusive particles
+enchanted books have their own textures per enchantment

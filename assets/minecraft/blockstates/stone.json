@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/stone" },
+            { "model": "block/stone_mirrored" },
+            { "model": "block/stone", "y": 180 },
+            { "model": "block/stone_mirrored", "y": 180 },
+            { "model": "block/stone1" },
+            { "model": "block/stone_mirrored1" },
+            { "model": "block/stone1", "y": 180 },
+            { "model": "block/stone_mirrored1", "y": 180 },
+            { "model": "block/stone2" },
+            { "model": "block/stone_mirrored2" },
+            { "model": "block/stone2", "y": 180 },
+            { "model": "block/stone_mirrored2", "y": 180 },
+            { "model": "block/stone3" },
+            { "model": "block/stone_mirrored3" },
+            { "model": "block/stone3", "y": 180 },
+            { "model": "block/stone_mirrored3", "y": 180 },
+            { "model": "block/stone4" },
+            { "model": "block/stone_mirrored4" },
+            { "model": "block/stone4", "y": 180 },
+            { "model": "block/stone_mirrored4", "y": 180 }
+        ]
+    }
+}
